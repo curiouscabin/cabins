@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Portfolios on curious cabins</title>
+    <link>https://curiouscabins.com/portfolio/</link>
+    <description>Recent content in Portfolios on curious cabins</description>
+    <image>
+      <url>https://curiouscabins.com/cc.jpg</url>
+      <link>https://curiouscabins.com/cc.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 27 Jun 2022 01:44:16 -0700</lastBuildDate><atom:link href="https://curiouscabins.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hi</title>
+      <link>https://curiouscabins.com/portfolio/hi/</link>
+      <pubDate>Mon, 27 Jun 2022 01:44:16 -0700</pubDate>
+      
+      <guid>https://curiouscabins.com/portfolio/hi/</guid>
+      <description>Our portfolio!</description>
+    </item>
+    
+  </channel>
+</rss>
